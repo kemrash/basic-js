@@ -1,0 +1,79 @@
+@media (max-width: 860px) {
+  .table__th_snl {
+    width: 23%;
+  }
+
+  .table__th_actions {
+    width: 15%;
+  }
+
+  .table__td {
+    padding: 10px 5px;
+  }
+}
+
+@media (max-width: 767px) {
+  .hero__wrap {
+    margin: 0 -20px;
+    padding: 0 10px;
+    margin-bottom: 37px;
+  }
+
+  .table {
+    min-width: 728px;
+  }
+
+}
+
+@media (max-width: 726px) {
+  .header {
+    padding: 8px 0;
+  }
+
+  .header__container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo {
+    margin-right: 0;
+  }
+
+  .header__label {
+    display: none;
+  }
+
+  .hero {
+    padding: 16px 0;
+  }
+
+  .table__td {
+    padding: 6px 5px;
+  }
+
+  .contact__dropdown {
+    width: 110px;
+  }
+
+  .contact__item {
+    width: 109px;
+  }
+
+  .modal__closebtn {
+    top: 3px;
+    right: 3px;
+  }
+
+  .modal__wrap,
+  .form__wrap {
+    padding: 0 15px;
+  }
+
+  .form__list {
+    padding: 25px 15px 17px;
+  }
+
+  .contact__input {
+    padding: 0 5px;
+  }
+}
